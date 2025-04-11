@@ -1,4 +1,4 @@
-# S3 to Databricks Delta Table Pipeline
+# S3 to Databricks Volume Pipeline
 
 This project demonstrates how to set up a data pipeline that processes documents from an S3 bucket and loads them into a Databricks Delta table using Unstructured's platform. The pipeline includes document processing, chunking, and embedding generation.
 
